@@ -103,7 +103,7 @@ else
 
     t = toc
     %%
-    tic 
+    tic     
     [h w col]=size(IN);
     EI=zeros(round(H/PD),round(W/PD),3);
     EI = uint8(EI);
