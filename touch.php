@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Sketchpad</title>
+<title>3D IMAGE</title>
     <script type="text/javascript" src="js/touchdrawing.js"></script>
     <script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
     <script src="js/bootstrap.js" type="text/javascript"></script>
@@ -34,7 +34,6 @@
       <div class="container-fluid">
 
         <div class="navbar-header">
-
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
@@ -131,5 +130,5 @@
         document.getElementsByTagName('body')[0].style.color = '#' + picker.toString()
     }
     </script>
- <script type="text/javascript" src="js/savings.js"></script>
+ <script type="text/javascript" src="js/saving.js"></script>
 </html>
